@@ -169,14 +169,6 @@
       "imagen": "assets/images/Accesorios/Correa Tematica Marvel.jpg"
     },
     {
-      "id": "af02be9a-1ed8-4bdf-8d27-e17fd42a3e8a",
-      "nombre": "Correa de balas",
-      "precio": "$599.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "categoria": "Accesorios",
-      "imagen": "assets/images/Accesorios/Correa de balas.jpg"
-    },
-    {
       "id": "1ccb78c0-067c-49d4-a5f8-46cd3c89661d",
       "nombre": "Correa BestSound Blanco y Negro",
       "precio": "$800.00",
