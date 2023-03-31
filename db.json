@@ -5,7 +5,7 @@
       "precio": "$7,899.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
-      "imagen": "/assets/images/Guitarras/Fender Malibu.jpg",
+      "imagen": "images/Guitarras/Fender Malibu.jpg",
       "id": "121"
     },
     {
@@ -13,7 +13,7 @@
       "precio": "$4,889.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
-      "imagen": "/assets/images/Guitarras/Gibson ES-335.jpg",
+      "imagen": "images/Guitarras/Gibson ES-335.jpg",
       "id": "132"
     },
     {
@@ -21,7 +21,7 @@
       "precio": "$6,700.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
-      "imagen": "/assets/images/Guitarras/Fender Stratocaster.jpg",
+      "imagen": "images/Guitarras/Fender Stratocaster.jpg",
       "id": "138"
     },
     {
@@ -29,7 +29,7 @@
       "precio": "$3,700.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
-      "imagen": "/assets/images/Guitarras/Epiphone 1958 Explorer.jpg",
+      "imagen": "images/Guitarras/Epiphone 1958 Explorer.jpg",
       "id": "140"
     },
     {
@@ -37,7 +37,7 @@
       "precio": "$5,150.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
-      "imagen": "/assets/images/Bajos/Fender Precision.jpg",
+      "imagen": "images/Bajos/Fender Precision.jpg",
       "id": "1901"
     },
     {
@@ -45,7 +45,7 @@
       "precio": "$6,550.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
-      "imagen": "/assets/images/Bajos/Ibanez SR300.jpg",
+      "imagen": "images/Bajos/Ibanez SR300.jpg",
       "id": "213"
     },
     {
@@ -53,7 +53,7 @@
       "precio": "$11,360.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
-      "imagen": "/assets/images/Bajos/Fender Mustang .jpg",
+      "imagen": "images/Bajos/Fender Mustang .jpg",
       "id": "3131"
     },
     {
@@ -61,7 +61,7 @@
       "precio": "$6,726.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
-      "imagen": "/assets/images/Bajos/Ibanez AEB5E Acoustic.jpg",
+      "imagen": "images/Bajos/Ibanez AEB5E Acoustic.jpg",
       "id": "901"
     },
     {
@@ -69,7 +69,7 @@
       "precio": "$6,999.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
-      "imagen": "/assets/images/Bajos/Ibanez GSR 200.jpg",
+      "imagen": "images/Bajos/Ibanez GSR 200.jpg",
       "id": "9031131"
     },
     {
@@ -77,7 +77,7 @@
       "precio": "$1,949.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Amplificadores",
-      "imagen": "/assets/images/Amplificadores/Fender Frontman 10G.jpg",
+      "imagen": "images/Amplificadores/Fender Frontman 10G.jpg",
       "id": "1000"
     },
     {
@@ -85,7 +85,7 @@
       "precio": "$1,447.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Amplificadores",
-      "imagen": "/assets/images/Amplificadores/Ibanez 60 TE.jpg",
+      "imagen": "images/Amplificadores/Ibanez 60 TE.jpg",
       "id": "10494900"
     },
     {
@@ -93,7 +93,7 @@
       "precio": "$6,500.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
-      "imagen": "/assets/images/Guitarras/Squier Affinity Series Jazzmaster HH.jpg",
+      "imagen": "images/Guitarras/Squier Affinity Series Jazzmaster HH.jpg",
       "id": "e1155f3c-958f-4015-8b05-027fc3f0b94b"
     },
     {
@@ -101,7 +101,7 @@
       "precio": "$15,250.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
-      "imagen": "/assets/images/Guitarras/PRS SE Custom 24.jpg",
+      "imagen": "images/Guitarras/PRS SE Custom 24.jpg",
       "id": "3d1f2ba9-1ce1-4e06-8ee2-0ec52118d743"
     },
     {
@@ -109,7 +109,7 @@
       "precio": "$5,789.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
-      "imagen": "/assets/images/Guitarras/Fender Telecaster.jpg",
+      "imagen": "images/Guitarras/Fender Telecaster.jpg",
       "id": "532dee0d-10bf-454a-9017-9d7b8d1e84b2"
     },
     {
@@ -118,7 +118,7 @@
       "precio": "$14,539.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
-      "imagen": "/assets/images/Bajos/Ibanez SR505ETVB.jpg"
+      "imagen": "images/Bajos/Ibanez SR505ETVB.jpg"
     },
     {
       "id": "cdb0ce9f-a675-4b5c-a90b-ecabcd5c2bb9",
@@ -126,7 +126,7 @@
       "precio": "$5,593.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
-      "imagen": "/assets/images/Bajos/Sterling Ray 34.jpg"
+      "imagen": "images/Bajos/Sterling Ray 34.jpg"
     },
     {
       "id": "f02de6e3-bd28-4d6b-b8b9-bdcd744d43b2",
@@ -134,7 +134,7 @@
       "precio": "$23,635.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Amplificadores",
-      "imagen": "/assets/images/Amplificadores/Marshall JCM800.jpg"
+      "imagen": "images/Amplificadores/Marshall JCM800.jpg"
     },
     {
       "id": "8df62693-72b3-40e4-b354-ec4299ec5e3f",
@@ -142,7 +142,7 @@
       "precio": "$3,316.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Pedales",
-      "imagen": "/assets/images/Pedales/Badass.jpg"
+      "imagen": "images/Pedales/Badass.jpg"
     },
     {
       "id": "2a939b0f-6365-48c3-9b9c-f4c814d7b726",
@@ -150,7 +150,7 @@
       "precio": "$2645.99",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Pedales",
-      "imagen": "/assets/images/Pedales/TubeScreamer.jpg"
+      "imagen": "images/Pedales/TubeScreamer.jpg"
     },
     {
       "id": "bfeb7263-60e8-4919-b476-a7a5a1a3e58a",
@@ -158,7 +158,7 @@
       "precio": "$1,479.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Pedales",
-      "imagen": "/assets/images/Pedales/BossDS.jpg"
+      "imagen": "images/Pedales/BossDS.jpg"
     },
     {
       "id": "48ebed2e-f3cc-4dc6-85c9-def864406d9d",
@@ -166,7 +166,7 @@
       "precio": "$300.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
-      "imagen": "/assets/images/Accesorios/Correa Tematica Marvel.jpg"
+      "imagen": "images/Accesorios/Correa Tematica Marvel.jpg"
     },
     {
       "id": "1ccb78c0-067c-49d4-a5f8-46cd3c89661d",
@@ -174,7 +174,7 @@
       "precio": "$800.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
-      "imagen": "/assets/images/Accesorios/Correa BestSound Blanco y Negro.jpg"
+      "imagen": "images/Accesorios/Correa BestSound Blanco y Negro.jpg"
     },
     {
       "id": "0beade69-861e-4a00-b6b2-6e07718b42f2",
@@ -182,7 +182,7 @@
       "precio": "$500.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
-      "imagen": "/assets/images/Accesorios/Capo Traste y Afinador.png"
+      "imagen": "images/Accesorios/Capo Traste y Afinador.png"
     },
     {
       "id": "fa794c46-9e48-41e3-a63c-2926b26cb83c",
@@ -190,7 +190,7 @@
       "precio": "$200.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
-      "imagen": "/assets/images/Cuerdas/Magma Nickel 0.40.png"
+      "imagen": "images/Cuerdas/Magma Nickel 0.40.png"
     },
     {
       "id": "58150cf6-e06a-4c3f-90af-0559d302570a",
@@ -198,7 +198,7 @@
       "precio": "$250.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
-      "imagen": "/assets/images/Cuerdas/Cuerdas Neon.png"
+      "imagen": "images/Cuerdas/Cuerdas Neon.png"
     },
     {
       "id": "0fe2f639-6621-4957-ab54-245882de643e",
@@ -206,7 +206,7 @@
       "precio": "$389.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
-      "imagen": "/assets/images/Cuerdas/Earnie ball Nickel Orange.png"
+      "imagen": "images/Cuerdas/Earnie ball Nickel Orange.png"
     },
     {
       "id": "6d4c4ea6-737c-4160-b12c-e86079a6376c",
@@ -214,7 +214,7 @@
       "precio": "$350.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
-      "imagen": "/assets/images/Cuerdas/Earthwood Bronze 12 Cuerdas.png"
+      "imagen": "images/Cuerdas/Earthwood Bronze 12 Cuerdas.png"
     },
     {
       "id": "267e0b26-350c-4cfa-a6c4-7a2aaaaba7c7",
@@ -222,7 +222,7 @@
       "precio": "$100.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Púas",
-      "imagen": "/assets/images/Puas/RomboPrisma.jpg"
+      "imagen": "images/Puas/RomboPrisma.jpg"
     },
     {
       "id": "5211165b-58a3-4c7a-babf-8d33f00ce71c",
@@ -230,7 +230,7 @@
       "precio": "$110.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Púas",
-      "imagen": "/assets/images/Puas/RomboDiamond.jpg"
+      "imagen": "images/Puas/RomboDiamond.jpg"
     },
     {
       "id": "9a1fb570-b52c-4315-971a-e12334da92de",
@@ -238,7 +238,7 @@
       "precio": "$120.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Púas",
-      "imagen": "/assets/images/Puas/RomboWaves.jpg"
+      "imagen": "images/Puas/RomboWaves.jpg"
     }
   ],
   "categorias": [
