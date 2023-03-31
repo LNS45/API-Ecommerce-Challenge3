@@ -137,14 +137,6 @@
       "imagen": "assets/images/Amplificadores/Marshall JCM800.jpg"
     },
     {
-      "id": "c625dc11-ab4f-46c1-b130-c182edd5bcec",
-      "nombre": "JHS Pedals 3 Series Chorus",
-      "precio": "$100.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "categoria": "Pedales",
-      "imagen": "assets/images/Pedales/JHSeries.jpg"
-    },
-    {
       "id": "8df62693-72b3-40e4-b354-ec4299ec5e3f",
       "nombre": "Dunlop MXR Custom Badass '78 Distortion ",
       "precio": "$3,316.00",
@@ -189,16 +181,8 @@
       "nombre": "Correa BestSound Blanco y Negro",
       "precio": "$800.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "categoria": "Selecciona",
-      "imagen": "assets/images/Accesorios/Correa BestSound Blanco y Negro.jpg"
-    },
-    {
-      "id": "df23ea19-07df-4e77-974d-01c8d3d956ac",
-      "nombre": "Capo Traste Fender",
-      "precio": "$200.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
-      "imagen": "assets/images/Accesorios/Capo Traste Fender.png"
+      "imagen": "assets/images/Accesorios/Correa BestSound Blanco y Negro.jpg"
     },
     {
       "id": "0beade69-861e-4a00-b6b2-6e07718b42f2",
@@ -231,14 +215,6 @@
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
       "imagen": "assets/images/Cuerdas/Earnie ball Nickel Orange.png"
-    },
-    {
-      "id": "c7c3e0f2-3a24-40df-bd86-893f015cf512",
-      "nombre": "D'Addario Clasic Nylon - Guitarra clasica",
-      "precio": "$200.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "categoria": "Cuerdas",
-      "imagen": "assets/images/Cuerdas/D'Addario Clasic Nylon.png"
     },
     {
       "id": "6d4c4ea6-737c-4160-b12c-e86079a6376c",
