@@ -145,14 +145,6 @@
       "imagen": "assets/images/Pedales/JHSeries.jpg"
     },
     {
-      "id": "19f3e272-24ea-4940-a350-70adbb281586",
-      "nombre": "Pedalera de madera",
-      "precio": "$130.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Pedales",
-      "imagen": "assets/images/Pedales/Pedalera.jpg"
-    },
-    {
       "id": "8df62693-72b3-40e4-b354-ec4299ec5e3f",
       "nombre": "Dunlop MXR Custom Badass '78 Distortion ",
       "precio": "$3,316.00",
@@ -217,30 +209,6 @@
       "imagen": "assets/images/Accesorios/Capo Traste Fender.png"
     },
     {
-      "id": "e0538007-eb28-4bf6-af6c-61c1f643a633",
-      "nombre": "Capo Traste Rojo",
-      "precio": "$100.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Accesorios",
-      "imagen": "assets/images/Accesorios/Capo Traste Kala Rojo.png"
-    },
-    {
-      "id": "1b812064-ae1c-42dd-8964-0df5b65c29d7",
-      "nombre": "Capo Traste Blanco",
-      "precio": "$100.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Accesorios",
-      "imagen": "assets/images/Accesorios/Capo Traste Blanco.png"
-    },
-    {
-      "id": "13db5da0-a1b6-4f76-97ff-f56c21042e0b",
-      "nombre": "Capo Traste Negro",
-      "precio": "$100.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Accesorios",
-      "imagen": "assets/images/Accesorios/Capo Traste Negro.png"
-    },
-    {
       "id": "0beade69-861e-4a00-b6b2-6e07718b42f2",
       "nombre": "Capo Traste y Afinador",
       "precio": "$500.00",
@@ -255,22 +223,6 @@
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
       "categoria": "Accesorios",
       "imagen": "assets/images/Accesorios/Capo Traste Fender Negro.png"
-    },
-    {
-      "id": "7eb4dc57-2e12-4c23-86d2-b3a299c515b8",
-      "nombre": "Capo Traste Café ",
-      "precio": "$150.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Accesorios",
-      "imagen": "assets/images/Accesorios/Capo Traste Earnie Ball Café.png"
-    },
-    {
-      "id": "8d45814a-b8ff-4233-8449-1f68310a69a6",
-      "nombre": "Correa Tom's Vintage",
-      "precio": "$600.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Accesorios",
-      "imagen": "assets/images/Accesorios/Correa Tom's Vintage.jpg"
     },
     {
       "id": "fa794c46-9e48-41e3-a63c-2926b26cb83c",
@@ -305,28 +257,12 @@
       "imagen": "assets/images/Cuerdas/D'Addario Clasic Nylon.png"
     },
     {
-      "id": "2af111ed-658b-4874-9a6e-3ebab861c97c",
-      "nombre": "ProArte Nylon - Guitarra clasica",
-      "precio": "$240.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Cuerdas",
-      "imagen": "assets/images/Cuerdas/ProArte Nylon.png"
-    },
-    {
       "id": "6d4c4ea6-737c-4160-b12c-e86079a6376c",
       "nombre": "Earthwood Bronze 12 Cuerdas - Docerola",
       "precio": "$350.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
       "categoria": "Cuerdas",
       "imagen": "assets/images/Cuerdas/Earthwood Bronze 12 Cuerdas.png"
-    },
-    {
-      "id": "263f7e28-815b-4449-ae7a-10572352a570",
-      "nombre": "Earnie ball Nickel Yellow - Guitarra",
-      "precio": "$276.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Cuerdas",
-      "imagen": "assets/images/Cuerdas/Earnie ball Nickel Yellow.png"
     },
     {
       "id": "267e0b26-350c-4cfa-a6c4-7a2aaaaba7c7",
@@ -353,52 +289,12 @@
       "imagen": "assets/images/Puas/RomboDiamond.jpg"
     },
     {
-      "id": "7026f818-48fb-411a-af80-3622ba332ef3",
-      "nombre": "Rombo Horizon 1.4mm Black",
-      "precio": "$100.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Púas",
-      "imagen": "assets/images/Puas/RomboHorizon.jpg"
-    },
-    {
       "id": "9a1fb570-b52c-4315-971a-e12334da92de",
       "nombre": "Rombo Waves 1.25mm Black",
       "precio": "$120.00",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
       "categoria": "Púas",
       "imagen": "assets/images/Puas/RomboWaves.jpg"
-    },
-    {
-      "id": "d00147ef-e659-47bc-a214-8df707fec349",
-      "nombre": "Rombo Classic 0.45mm",
-      "precio": "$99.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Púas",
-      "imagen": "assets/images/Puas/RomboClassic.jpg"
-    },
-    {
-      "id": "ae252fad-cb44-4cfc-ba15-6f77d6dce2c7",
-      "nombre": "Paquete mix Rombo Black",
-      "precio": "$250.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Púas",
-      "imagen": "assets/images/Puas/PaqueteMix.jpg"
-    },
-    {
-      "id": "24a43f73-21b3-4f98-92dd-fe9b5db84e81",
-      "nombre": "Portapúas Negro",
-      "precio": "$80.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Púas",
-      "imagen": "assets/images/Puas/Portapuas.jpg"
-    },
-    {
-      "id": "40a1507a-4f54-4a47-b491-aa016b18278d",
-      "nombre": "DUNLOP U.S.A 2mm",
-      "precio": "$20.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
-      "categoria": "Púas",
-      "imagen": "assets/images/Puas/Púa dura.jpg"
     }
   ],
   "categorias": [
