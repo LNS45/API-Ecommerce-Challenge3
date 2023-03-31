@@ -107,7 +107,7 @@
     {
       "nombre": "Fender Telecaster",
       "precio": "$5,789.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Guitarras",
       "imagen": "assets/images/Guitarras/Fender Telecaster.jpg",
       "id": "532dee0d-10bf-454a-9017-9d7b8d1e84b2"
@@ -116,7 +116,7 @@
       "id": "94104a61-f49d-428d-906d-83fbeb16d4e7",
       "nombre": "Ibanez SR505ETVB",
       "precio": "$14,539.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
       "imagen": "assets/images/Bajos/Ibanez SR505ETVB.jpg"
     },
@@ -124,7 +124,7 @@
       "id": "cdb0ce9f-a675-4b5c-a90b-ecabcd5c2bb9",
       "nombre": "Sterling Ray 34",
       "precio": "$5,593.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Bajos",
       "imagen": "assets/images/Bajos/Sterling Ray 34.jpg"
     },
@@ -132,7 +132,7 @@
       "id": "f02de6e3-bd28-4d6b-b8b9-bdcd744d43b2",
       "nombre": "Marshall JCM800",
       "precio": "$23,635.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Amplificadores",
       "imagen": "assets/images/Amplificadores/Marshall JCM800.jpg"
     },
@@ -140,7 +140,7 @@
       "id": "c625dc11-ab4f-46c1-b130-c182edd5bcec",
       "nombre": "JHS Pedals 3 Series Chorus",
       "precio": "$100.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Pedales",
       "imagen": "assets/images/Pedales/JHSeries.jpg"
     },
@@ -148,7 +148,7 @@
       "id": "8df62693-72b3-40e4-b354-ec4299ec5e3f",
       "nombre": "Dunlop MXR Custom Badass '78 Distortion ",
       "precio": "$3,316.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Pedales",
       "imagen": "assets/images/Pedales/Badass.jpg"
     },
@@ -156,7 +156,7 @@
       "id": "2a939b0f-6365-48c3-9b9c-f4c814d7b726",
       "nombre": "Ibanez TS808 Tube Screamer Overdrive Pro",
       "precio": "$2645.99",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Pedales",
       "imagen": "assets/images/Pedales/TubeScreamer.jpg"
     },
@@ -164,7 +164,7 @@
       "id": "bfeb7263-60e8-4919-b476-a7a5a1a3e58a",
       "nombre": "BOSS DS-1 Distortion ",
       "precio": "$1,479.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Pedales",
       "imagen": "assets/images/Pedales/BossDS.jpg"
     },
@@ -172,7 +172,7 @@
       "id": "48ebed2e-f3cc-4dc6-85c9-def864406d9d",
       "nombre": "Correa Tematica Marvel",
       "precio": "$300.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
       "imagen": "assets/images/Accesorios/Correa Tematica Marvel.jpg"
     },
@@ -180,7 +180,7 @@
       "id": "af02be9a-1ed8-4bdf-8d27-e17fd42a3e8a",
       "nombre": "Correa de balas",
       "precio": "$599.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
       "imagen": "assets/images/Accesorios/Correa de balas.jpg"
     },
@@ -188,7 +188,7 @@
       "id": "1ccb78c0-067c-49d4-a5f8-46cd3c89661d",
       "nombre": "Correa BestSound Blanco y Negro",
       "precio": "$800.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Selecciona",
       "imagen": "assets/images/Accesorios/Correa BestSound Blanco y Negro.jpg"
     },
@@ -196,7 +196,7 @@
       "id": "df23ea19-07df-4e77-974d-01c8d3d956ac",
       "nombre": "Capo Traste Fender",
       "precio": "$200.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
       "imagen": "assets/images/Accesorios/Capo Traste Fender.png"
     },
@@ -204,7 +204,7 @@
       "id": "0beade69-861e-4a00-b6b2-6e07718b42f2",
       "nombre": "Capo Traste y Afinador",
       "precio": "$500.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Accesorios",
       "imagen": "assets/images/Accesorios/Capo Traste y Afinador.png"
     },
@@ -212,7 +212,7 @@
       "id": "fa794c46-9e48-41e3-a63c-2926b26cb83c",
       "nombre": "Magma Nickel 0.40 - Bajo Electrico",
       "precio": "$200.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
       "imagen": "assets/images/Cuerdas/Magma Nickel 0.40.png"
     },
@@ -220,7 +220,7 @@
       "id": "58150cf6-e06a-4c3f-90af-0559d302570a",
       "nombre": "Cuerdas Neon - Bajo",
       "precio": "$250.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
       "imagen": "assets/images/Cuerdas/Cuerdas Neon.png"
     },
@@ -228,7 +228,7 @@
       "id": "0fe2f639-6621-4957-ab54-245882de643e",
       "nombre": "Earnie ball Nickel Orange - Guitarra",
       "precio": "$389.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
       "imagen": "assets/images/Cuerdas/Earnie ball Nickel Orange.png"
     },
@@ -236,7 +236,7 @@
       "id": "c7c3e0f2-3a24-40df-bd86-893f015cf512",
       "nombre": "D'Addario Clasic Nylon - Guitarra clasica",
       "precio": "$200.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
       "imagen": "assets/images/Cuerdas/D'Addario Clasic Nylon.png"
     },
@@ -244,7 +244,7 @@
       "id": "6d4c4ea6-737c-4160-b12c-e86079a6376c",
       "nombre": "Earthwood Bronze 12 Cuerdas - Docerola",
       "precio": "$350.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Cuerdas",
       "imagen": "assets/images/Cuerdas/Earthwood Bronze 12 Cuerdas.png"
     },
@@ -252,7 +252,7 @@
       "id": "267e0b26-350c-4cfa-a6c4-7a2aaaaba7c7",
       "nombre": "Rombo Prisma 0.8mm Black",
       "precio": "$100.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Púas",
       "imagen": "assets/images/Puas/RomboPrisma.jpg"
     },
@@ -260,7 +260,7 @@
       "id": "5211165b-58a3-4c7a-babf-8d33f00ce71c",
       "nombre": "Rombo Diamond 2mm Black",
       "precio": "$110.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Púas",
       "imagen": "assets/images/Puas/RomboDiamond.jpg"
     },
@@ -268,7 +268,7 @@
       "id": "9a1fb570-b52c-4315-971a-e12334da92de",
       "nombre": "Rombo Waves 1.25mm Black",
       "precio": "$120.00",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus tellus quis mi tincidunt, non scelerisque eros finibus. Quisque cursus imperdiet nibh id porttitor.",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "categoria": "Púas",
       "imagen": "assets/images/Puas/RomboWaves.jpg"
     }
